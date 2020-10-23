@@ -9,7 +9,7 @@ train: ../taco/train/images
 val:   ../taco/val/images
 
 # number of classes
-nc: 58
+nc: 59
 
 # class names
 names: ['Glass bottle', 'Meal carton', 'Other carton',
